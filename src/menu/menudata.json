@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "title":"Burger",
+        "types":[
+            {
+                "id": 1,
+                "title":"Veg Burger",
+                "price":100,
+                "image":"https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_960_720.jpg"
+            },
+            {
+                "id": 2,
+                "title":"Cheese Burger",
+                "price":100,
+                "image":"https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_960_720.jpg"
+            },
+            {
+                "id": 3,
+                "title":"Chicken Burger",
+                "price":100,
+                "image":"https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_960_720.jpg"
+            },
+            {
+                "id": 4,
+                "title":"Veg Burger",
+                "price":100,
+                "image":"https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_960_720.jpg"
+            },
+            {
+                "id": 5,
+                "title":"Veg Burger",
+                "price":100,
+                "image":"https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_960_720.jpg"
+            },
+            {
+                "id": 6,
+                "title":"Veg Burger",
+                "price":100,
+                "image":"https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_960_720.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title":"Pasta",
+        "types":[
+            {
+                "id": 1,
+                "title":"Pasta",
+                "price":100,
+                "image":"https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_960_720.jpg"
+            },
+            {
+                "id": 2,
+                "title":"Pasta",
+                "price":100,
+                "image":"https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_960_720.jpg"
+            },
+            {
+                "id": 3,
+                "title":"Pasta",
+                "price":100,
+                "image":"https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_960_720.jpg"
+            },
+            {
+                "id": 4,
+                "title":"Pasta",
+                "price":100,
+                "image":"https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_960_720.jpg"
+            },
+            {
+                "id": 5,
+                "title":"Pasta",
+                "price":100,
+                "image":"https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_960_720.jpg"
+            },
+            {
+                "id": 6,
+                "title":"Pasta",
+                "price":100,
+                "image":"https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_960_720.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title":"Sandwich",
+        "types":[
+            {
+                "id": 1,
+                "title":"Veg Sandwich",
+                "price":100,
+                "image":"https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_960_720.jpg"
+            },
+            {
+                "id": 2,
+                "title":"Veg Sandwich",
+                "price":100,
+                "image":"https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_960_720.jpg"
+            },
+            {
+                "id": 3,
+                "title":"Veg Sandwich",
+                "price":100,
+                "image":"https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_960_720.jpg"
+            },
+            {
+                "id": 4,
+                "title":"Veg Sandwich",
+                "price":100,
+                "image":"https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_960_720.jpg"
+            },
+            {
+                "id": 5,
+                "title":"Veg Sandwich",
+                "price":100,
+                "image":"https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_960_720.jpg"
+            },
+            {
+                "id": 6,
+                "title":"Veg Sandwich",
+                "price":100,
+                "image":"https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_960_720.jpg"
+            }
+        ]
+    }
+]
